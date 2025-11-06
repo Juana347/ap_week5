@@ -97,4 +97,7 @@ word_in_quote = print(word in quote) # Output: True
 
 # Length and Count:
 # a. Calculate the number of characters (including spaces and punctuation) in the word/phrase: "Supercalifragilisticexpialidocious".
+phrase = "Supercalifragilisticexpialidocious"
+length_of_phrase = print(len(phrase))
 # b. Count the number of times the letter 'i' appears in the same word/phrase.
+count_of_i = print(phrase.count('i'))
