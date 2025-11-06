@@ -76,6 +76,8 @@ print(joined_motto_split)
 # Modify the sentence: "Life is what happens when you are busy making other plans."
 # a. Replace "busy" with "distracted".
 # b. Replace "plans" with "mistakes".
+sentence = "Life is what happens when you are busy making other plans."
+replaced_sentence = print(sentence.replace("busy", "distracted").replace("plans", ))
 
 # Problem Set 4: String Properties and Advanced Operations
 # Repetition:
